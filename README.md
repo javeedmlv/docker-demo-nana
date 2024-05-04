@@ -71,4 +71,4 @@ The dot "." at the end of the command denotes location of the Dockerfile.
 
 http://10.10.11.179:8080/
 
-AKIA4VSUGL3O3G4UGN6W
+aws_secret_access_key=AKIA4VSUGL3O3G4UGN6W
